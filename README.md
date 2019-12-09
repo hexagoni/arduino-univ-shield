@@ -26,6 +26,12 @@ It offers the following features:
  - Direct power supply stabilized by capacitor (recommended 47µF) for
    all current outputs and the Nrf24L01+
 
+
+### Images
+
+![Schematic](https://github.com/hexagoni/arduino-univ-shield/blob/master/Schematic/Schematic.png)
+![PCB](https://github.com/hexagoni/arduino-univ-shield/blob/master/PCB/PCB.png)
+
 ## What do I have to consider when using the Shield?
 
 The board is designed for a total load of 1 Ampere at 3.3V resp. 5.0V. If higher currents or voltages are required for sensors, a separate power supply must be installed.
